@@ -7,7 +7,6 @@ plugins:
 
 remote_theme: pmarsceill/just-the-docs
 title: Electronics A-Level 
-{: .fs-10 } # having to make some change bc it didn't upload.
 
 heading_anchors: true
 nav_enabled: true
