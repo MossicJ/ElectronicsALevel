@@ -6,8 +6,7 @@ plugins:
   - jekyll-sitemap
 
 remote_theme: pmarsceill/just-the-docs
-title: Cirencester College Electronics A-Level booklet organisation UPDATE
-description: Bookmark this to keep easy navigation of the electronics booklets!
+title: Electronics A-Level {: .fs-10 }
 
 heading_anchors: true
 nav_enabled: true
