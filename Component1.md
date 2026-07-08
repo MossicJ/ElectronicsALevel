@@ -1,6 +1,7 @@
 ---
 title: Component 1
 nav_order: 2
+has_toc: false
 ---
 
 # Component 1 of Electronics
