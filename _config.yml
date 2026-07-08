@@ -8,3 +8,9 @@ plugins:
 remote-theme: just-the-docs
 title: Cirencester College Electronics A-Level booklet organisation
 description: Bookmark this to keep easy navigation of the electronics booklets!
+
+heading_anchors: true
+nav_enabled: true
+nav_external_links:
+  -title: Testing Navigation
+  url: https://mossicj.github.io/ElectronicsALevel
