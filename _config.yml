@@ -5,7 +5,6 @@ plugins:
   - jekyll-include-cache
   - jekyll-sitemap
 
-
 remote-theme: just-the-docs
 title: Cirencester College Electronics A-Level booklet organisation
 description: Bookmark this to keep easy navigation of the electronics booklets!
